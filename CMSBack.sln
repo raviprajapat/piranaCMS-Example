@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMSBack", "CMSBack\CMSBack.csproj", "{EEF408CF-BD8C-4D7E-A802-635F7C2533E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelCMS", "HotelCMS\HotelCMS.csproj", "{27510F95-E5D1-4922-9D6E-0D8F9EBBFF78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF408CF-BD8C-4D7E-A802-635F7C2533E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF408CF-BD8C-4D7E-A802-635F7C2533E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF408CF-BD8C-4D7E-A802-635F7C2533E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF408CF-BD8C-4D7E-A802-635F7C2533E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27510F95-E5D1-4922-9D6E-0D8F9EBBFF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27510F95-E5D1-4922-9D6E-0D8F9EBBFF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27510F95-E5D1-4922-9D6E-0D8F9EBBFF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27510F95-E5D1-4922-9D6E-0D8F9EBBFF78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
